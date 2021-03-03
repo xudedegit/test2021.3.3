@@ -1,0 +1,2 @@
+D:\study_source\cpp_code\test2021.3.3\zizeng_chongzai\Debug\zizeng_chongzai.exe
+D:\study_source\cpp_code\test2021.3.3\zizeng_chongzai\Debug\zizeng_chongzai.pdb
